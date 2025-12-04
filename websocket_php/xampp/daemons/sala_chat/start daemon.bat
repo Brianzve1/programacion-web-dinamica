@@ -1,2 +1,0 @@
-php testwebsock.php
-pause
